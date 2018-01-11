@@ -17,13 +17,15 @@ ul {
 }
 
 .logo {
-  height: 0;
-  width: 0;
+  height: 100px;
+  margin-left: 10px;
+  width: 100px;
 }
 
 .name {
-  text-align: center;
-  width: 100%;
+  margin-right: 10px;
+  text-align: right;
+  width: calc(100% - 120px);
 }
 
 .layout-grid {
@@ -71,18 +73,6 @@ ul {
 
   .portfolio-item {
     max-width: calc(50% - 12px);
-  }
-
-  .name {
-    margin-right: 10px;
-    text-align: right;
-    width: calc(100% - 120px);
-  }
-
-  .logo {
-    height: 100px;
-    margin-left: 10px;
-    width: 100px;
   }
 }
 
