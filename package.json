@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "Jeff's Application portfolio",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcorpac/portfolio-site.git"
+  },
+  "author": "Jeff Corpac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcorpac/portfolio-site/issues"
+  },
+  "homepage": "https://github.com/jcorpac/portfolio-site#readme",
+  "devDependencies": {
+    "gulp-jasmine-phantom": "^3.0.0"
+  }
+}
