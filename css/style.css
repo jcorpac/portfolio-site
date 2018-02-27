@@ -29,7 +29,7 @@ li {
   width: 100px;
 }
 
-.name {
+.introduction {
   margin-right: 10px;
   text-align: right;
   width: calc(100% - 120px);
@@ -83,7 +83,6 @@ li {
     margin-right: auto;
     width: 33%;
   }
-
   .portfolio-item {
     max-width: calc(50% - 12px);
   }
